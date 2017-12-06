@@ -2,7 +2,7 @@
 
 This is a resume of myself. If you are interested in recruiting me or just wanna make friends with me, please don't hesitate.
 
-# Hierarchy
+# hierarchy
 
 * Résumé
   * Bilingual Résumé & Bilingual Résumé.pdf
